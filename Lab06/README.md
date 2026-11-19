@@ -1,39 +1,60 @@
-# Lab 06 - HTML Lists
+# Lab 06 – HTML Lists
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)  
-**Student ID:** LBCS2025019
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
 To understand and create different types of lists in HTML.
 
-## Tasks
-1. Create an ordered list using the ol tag.
-2. Create an unordered list using the ul tag.
-3. Create a description list using the dl, dt and dd tags.
+## Description
 
-## Technologies Used
+This exercise introduces ordered, unordered and description lists for organizing webpage information.
+
+## Technologies and Tools
+
 - HTML5
 - CSS3
 - Visual Studio Code
-- Web Browser
+- Web browser
 
-## HTML Tags Used
-- ol
-- ul
-- li
-- dl
-- dt
-- dd
 
-## Files
-- index.html
-- style.css
-- images/Lab6.pdf
+## Tasks Covered
+
+1. Create an ordered list using ol.
+2. Create an unordered list using ul.
+3. Create a description list using dl, dt and dd.
+
+## Concepts and Elements
+
+- ol, ul and li
+- dl, dt and dd
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
+- [Lab 6 folder](.)
+
+
+## Practical Output
+
+No output PDF was found at the output path previously referenced for this lab during this documentation review. The source files have been retained.
 
 ## Conclusion
-In this practical, I learned how to create ordered, unordered and description lists using HTML.
-7
+
+I learned how to create ordered, unordered and description lists using HTML.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
