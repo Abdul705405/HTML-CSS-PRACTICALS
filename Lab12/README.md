@@ -1,40 +1,64 @@
-# Lab 12: CSS Box Model, Cards and Scrolling
+# Lab 12 – CSS Box Model, Cards and Scrolling
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)
-**Student ID:** LBCS2025019
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
-To understand the CSS Box Model, create card layouts,
-and implement scrolling using CSS.
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
+To understand the CSS Box Model, create card layouts and implement scrolling using CSS.
+
+## Description
+
+This practical demonstrates content, padding, border and margin, card styling and overflow.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
 
 ## Tasks Covered
 
-### Task 1: CSS Box Model
-Demonstrated Content, Padding, Border and Margin.
+1. Demonstrate the box model
+2. create three styled cards
+3. implement vertical scrolling using overflow.
 
-### Task 2: CSS Cards
-Created three attractive cards using CSS properties,
-spacing, borders and hover effects.
+## Concepts Used
 
-### Task 3: CSS Scrolling
-Implemented vertical scrolling using the CSS overflow property.
-
-## Technologies Used
-- HTML5
-- CSS3
-- VS Code
-- Web Browser
+- Content, padding, border and margin
+- Card spacing, borders and hover effects
+- CSS overflow
 
 ## How to Run
-1. Open index.html in a web browser.
-2. View the Box Model demonstration.
-3. Explore the CSS cards.
-4. Scroll inside the scrollable content box.
+
+1. Open [index.html](index.html) in a web browser.
+2. Review the practical demonstration.
+3. Resize the browser where responsive behaviour is part of the exercise.
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
 
 ## Practical Output
 
-The supplied practical output is available as [Lab12.pdf](images/Lab12.pdf).
+No output PDF was found at the previously referenced `images/Lab12.pdf` path during this review. The original source files have been retained.
+
+## Conclusion
+
+I learned how the CSS box model works, how to style cards and how to control scrolling with overflow.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
