@@ -1,42 +1,65 @@
-# Lab 11 - CSS Units and CSS Variables
+# Lab 11 – CSS Units and CSS Variables
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)  
-**Student ID:** LBCS2025019
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
-To understand absolute and relative CSS units and learn how to define and use CSS variables.
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
 
-## Tasks
-1. Use CSS absolute units such as pixels.
-2. Use relative units such as %, em, rem and vw.
-3. Create and use CSS variables.
+## Aim
 
-## Technologies Used
+To understand absolute and relative CSS units and define reusable CSS custom properties.
+
+## Description
+
+The practical compares CSS measurement units and demonstrates reusable variables.
+
+## Technologies and Tools
+
 - HTML5
 - CSS3
 - Visual Studio Code
-- Web Browser
+- Web browser
 
-## CSS Concepts Used
-- px
-- %
-- em
-- rem
-- vw
-- CSS Custom Properties
-- :root Selector
-- var() Function
-- calc() Function
-- Media Queries
+## Tasks Covered
 
-## Files
-- index.html
-- style.css
-- images/Lab11.pdf
+1. Use px
+2. use %, em, rem and vw
+3. create and use CSS variables.
+
+## Concepts Used
+
+- px, %, em, rem and vw
+- CSS custom properties and :root
+- var() and calc() functions
+- Media queries
+
+## How to Run
+
+1. Open [index.html](index.html) in a web browser.
+2. Review the practical demonstration.
+3. Resize the browser where responsive behaviour is part of the exercise.
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
+
+## Practical Output
+
+No output PDF was found at the previously referenced `images/Lab11.pdf` path during this review. The original source files have been retained.
 
 ## Conclusion
-In this practical, I learned how to use absolute and relative CSS units and define reusable CSS variables to make styling easier and more consistent.
+
+I learned how to use absolute and relative CSS units and define reusable CSS variables.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
