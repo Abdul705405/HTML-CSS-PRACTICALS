@@ -1,40 +1,62 @@
-# Lab 2: Pushing and Cloning a Repository
+# Lab 02 – Pushing and Cloning a Repository
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)  
-**Student ID:** LBCS2025019
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
 
-To learn how to connect a local repository with GitHub,
-push files to GitHub and clone an existing repository.
+## Aim
 
-## Tasks
+To learn how to connect a local repository with GitHub, push files and clone an existing repository.
 
-1. Connect a remote repository.
-2. Push code to GitHub.
-3. Clone a repository.
+## Description
 
-## Git Commands
+The exercise covers the basic workflow for connecting a local project to a remote repository and obtaining a copy of a repository.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
+- Git and GitHub
+
+## Tasks Covered
+
+1. Connect a local repository to a remote repository.
+2. Push project files to GitHub.
+3. Clone an existing repository.
+
+## Concepts and Elements
 
 - git remote add origin
 - git branch -M main
-- git add .
-- git commit
-- git push
-- git clone
+- git add and git commit
+- git push and git clone
 
-## Files
+## Source Files
 
-- index.html
-- style.css
-- README.md
-- images/Lab2.pdf
+- [index.html](index.html)
+- [style.css](style.css)
+- [Lab 2 folder](.)
+
+
+## Practical Output
+
+No output PDF was found at the output path previously referenced for this lab during this documentation review. The source files have been retained.
 
 ## Conclusion
 
-I learned how to connect local and remote repositories,
-upload project files to GitHub and clone repositories.
+I learned how to connect local and remote repositories, upload project files to GitHub and clone repositories.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
