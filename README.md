@@ -19,7 +19,7 @@ A collection of 15 hands-on HTML5 and CSS3 laboratory practicals covering web-pa
 
 ## Project Overview
 
-This repository organizes 15 practical exercises into separate folders. Each lab generally contains an `index.html`, `style.css`, and a lab-specific `README.md`. Existing output PDFs supplied with the project are retained in each lab's `images/` folder.
+This repository organizes 15 practical exercises into separate folders. Each lab generally contains an `index.html`, `style.css`, and a lab-specific `README.md`. The supplied output PDF currently verified in the repository is `Lab01/images/Lab1.pdf`. Output PDFs referenced by Labs 02–15 were not found at their documented paths and should be added when available. Original practical files and screenshots are not generated or replaced by this audit.
 
 ## Practicals
 
