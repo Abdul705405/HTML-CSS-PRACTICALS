@@ -1,41 +1,61 @@
-# Lab 09 - HTML Tables, Headers and Footers
+# Lab 09 – HTML Tables, Headers and Footers
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)  
-**Student ID:** LBCS2025019
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
 To create HTML tables and understand table headings, body and footer sections.
 
-## Tasks
+## Description
+
+The exercise covers tabular data structure and combining table cells with HTML attributes.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
+
+
+## Tasks Covered
+
 1. Create a basic HTML table.
 2. Use table header and footer elements.
 3. Use colspan and rowspan attributes.
 
-## Technologies Used
-- HTML5
-- CSS3
-- Visual Studio Code
-- Web Browser
+## Concepts and Elements
 
-## HTML Tags and Attributes Used
-- table
-- thead
-- tbody
-- tfoot
-- tr
-- th
-- td
-- colspan
-- rowspan
+- table, thead, tbody and tfoot
+- tr, th and td
+- colspan and rowspan
 
-## Files
-- index.html
-- style.css
-- images/Lab9.pdf
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
+- [Lab 9 folder](.)
+
+
+## Practical Output
+
+No output PDF was found at the output path previously referenced for this lab during this documentation review. The source files have been retained.
 
 ## Conclusion
-In this practical, I learned how to create HTML tables, organize table data using thead, tbody and tfoot, and combine cells using colspan and rowspan.
+
+I learned how to create HTML tables, organize table data using thead, tbody and tfoot, and combine cells using colspan and rowspan.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
