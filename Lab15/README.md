@@ -1,41 +1,64 @@
-# Lab 15: Responsive Web Pages and Media Queries
+# Lab 15 – Responsive Web Pages and Media Queries
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)  
-**Student ID:** LBCS2025019  
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
-To create responsive web pages using CSS media queries
-and responsive layout techniques.
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
+To create responsive web pages using CSS media queries and responsive layout techniques.
+
+## Description
+
+The practical demonstrates desktop, tablet and mobile layouts, including a responsive navigation bar and service cards.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
 
 ## Tasks Covered
 
-### Task 1: Responsive Web Design
-Created layouts for desktop, tablet and mobile screens.
+1. Create layouts for desktop, tablet and mobile
+2. use media queries by screen width
+3. create a responsive navigation bar and service cards with Grid and Flexbox.
 
-### Task 2: CSS Media Queries
-Used CSS media queries to apply different styles
-according to screen width.
+## Concepts Used
 
-### Task 3: Responsive Website Layout
-Created a responsive navigation bar and service cards
-using CSS Grid and Flexbox.
-
-## Technologies Used
-- HTML5
-- CSS3
-- VS Code
-- Web Browser
+- CSS media queries
+- Responsive layouts
+- CSS Grid and Flexbox
 
 ## How to Run
-1. Open index.html in a web browser.
-2. Observe the responsive website layout.
-3. Resize the browser window.
-4. Check the desktop, tablet and mobile layouts.
+
+1. Open [index.html](index.html) in a web browser.
+2. Review the practical demonstration.
+3. Resize the browser where responsive behaviour is part of the exercise.
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
 
 ## Practical Output
 
-The supplied practical output is available as [Lab15.pdf](images/Lab15.pdf).
+No output PDF was found at the previously referenced `images/Lab15.pdf` path during this review. The original source files have been retained.
+
+## Conclusion
+
+I learned how media queries and responsive layout techniques adapt webpage content to different screen sizes.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
