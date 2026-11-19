@@ -1,39 +1,61 @@
-# Lab 07 - Create an About Me Webpage
+# Lab 07 – Create an About Me Webpage
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry) 
-**Student ID:** LBCS2025019  
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
 To create a personal About Me webpage using HTML and CSS.
 
-## Tasks
+## Description
+
+The practical organizes a personal introduction, education, technical skills and hobbies in a webpage.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
+
+
+## Tasks Covered
+
 1. Create a personal introduction section.
 2. Display educational qualifications.
 3. Display technical skills and hobbies.
 
-## Technologies Used
-- HTML5
-- CSS3
-- Visual Studio Code
-- Web Browser
+## Concepts and Elements
 
-## HTML and CSS Concepts Used
-- HTML headings and paragraphs
-- Div and section elements
-- Lists
-- Hyperlinks
-- CSS classes
-- Flexbox
-- Media queries
+- HTML headings, paragraphs, div and section elements
+- Lists and hyperlinks
+- CSS classes, Flexbox and media queries
 
-## Files
-- index.html
-- style.css
-- images/Lab7.pdf
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
+- [Lab 7 folder](.)
+
+
+## Practical Output
+
+No output PDF was found at the output path previously referenced for this lab during this documentation review. The source files have been retained.
 
 ## Conclusion
-In this practical, I created a personal About Me webpage and learned how to display personal information, education, skills and hobbies using HTML and CSS.
+
+I created a personal About Me webpage and learned how to display personal information, education, skills and hobbies using HTML and CSS.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
