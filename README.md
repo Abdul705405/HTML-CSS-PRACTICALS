@@ -14,7 +14,8 @@ A collection of 15 hands-on HTML5 and CSS3 laboratory practicals covering web-pa
 | University | Invertis University |
 | Subject / Lab Code | BCS554 – HTML & CSS Development Lab (as listed in the supplied practical files) |
 
-> Roll number, faculty name, and submission date have not been provided and are intentionally omitted.
+> **Roll Number:** 2550303001  
+> Faculty name and submission date were not provided.
 
 ## Project Overview
 
