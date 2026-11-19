@@ -1,37 +1,60 @@
-# Lab 05 - HTML Links and Images
+# Lab 05 – HTML Links and Images
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry) 
-**Student ID:** LBCS2025019 
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
 To learn how to create hyperlinks and insert images into an HTML webpage.
 
-## Tasks
-1. Create hyperlinks using the anchor tag.
-2. Add images using the img tag.
-3. Use an image as a clickable hyperlink.
+## Description
 
-## Technologies Used
+This practical demonstrates links between web resources, displaying images and making an image clickable.
+
+## Technologies and Tools
+
 - HTML5
 - CSS3
 - Visual Studio Code
-- Web Browser
+- Web browser
 
-## HTML Tags Used
-- a
-- img
-- p
-- h1
-- h2
 
-## Files
-- index.html
-- style.css
-- images/Lab5.pdf
+## Tasks Covered
+
+1. Create hyperlinks using the anchor element.
+2. Add images using the img element.
+3. Use an image as a clickable hyperlink.
+
+## Concepts and Elements
+
+- a and img elements
+- Paragraph and heading elements
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
+- [Lab 5 folder](.)
+
+
+## Practical Output
+
+No output PDF was found at the output path previously referenced for this lab during this documentation review. The source files have been retained.
 
 ## Conclusion
-In this practical, I learned how to create hyperlinks, display images and use images as clickable links in an HTML webpage.
+
+I learned how to create hyperlinks, display images and use images as clickable links in an HTML webpage.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
