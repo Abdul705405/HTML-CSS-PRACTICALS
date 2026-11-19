@@ -1,42 +1,64 @@
-# Lab 13: CSS Flexbox Layouts
+# Lab 13 – CSS Flexbox Layouts
 
-**Subject:** BCS554 – HTML & CSS Development Lab  
-**Student:** Abdul Rahman Farooqui  
-**Course:** B.Tech Computer Science & Engineering (Lateral Entry)
-**Student ID:** LBCS2025019  
-**Semester / Section:** 5th Semester / D  
-**University:** Invertis University
+## Student Details
 
-## Objective
-To understand CSS Flexbox and create flexible,
-responsive webpage layouts.
+| Field | Details |
+|---|---|
+| Student Name | Abdul Rahman Farooqui |
+| Student ID | LBCS2025019 |
+| Roll Number | 2550303001 |
+| Course | B.Tech Computer Science & Engineering (Lateral Entry) |
+| Semester | 5th Semester |
+| Section | D |
+| University | Invertis University, Bareilly |
+| Subject | BCS554 – HTML & CSS Development Lab |
+
+## Aim
+
+To understand CSS Flexbox and create flexible webpage layouts.
+
+## Description
+
+The exercise uses Flexbox to arrange items, build a navigation bar and create a responsive page structure.
+
+## Technologies and Tools
+
+- HTML5
+- CSS3
+- Visual Studio Code
+- Web browser
 
 ## Tasks Covered
 
-### Task 1: Flex Container and Flex Items
-Used display: flex, flex-direction, justify-content,
-align-items and gap properties.
+1. Use Flexbox container properties
+2. create a navigation bar
+3. create a responsive sidebar, content area and card layout.
 
-### Task 2: Navigation Bar using Flexbox
-Created a navigation bar using Flexbox for arranging
-the logo and navigation links.
+## Concepts Used
 
-### Task 3: Responsive Flexbox Layout
-Created a responsive layout containing a sidebar,
-main content area and content cards.
-
-## Technologies Used
-- HTML5
-- CSS3
-- VS Code
-- Web Browser
+- display:flex
+- flex-direction, justify-content and align-items
+- gap and responsive layouts
 
 ## How to Run
-1. Open index.html in a web browser.
-2. Observe the Flexbox container.
-3. Check the navigation bar.
-4. Resize the browser to test responsiveness.
+
+1. Open [index.html](index.html) in a web browser.
+2. Review the practical demonstration.
+3. Resize the browser where responsive behaviour is part of the exercise.
+
+## Source Files
+
+- [index.html](index.html)
+- [style.css](style.css)
 
 ## Practical Output
 
-The supplied practical output is available as [Lab13.pdf](images/Lab13.pdf).
+No output PDF was found at the previously referenced `images/Lab13.pdf` path during this review. The original source files have been retained.
+
+## Conclusion
+
+I learned how to arrange webpage elements with Flexbox and use it for navigation and flexible layouts.
+
+---
+
+*Academic practical documentation – B.Tech CSE, Invertis University, Bareilly.*
